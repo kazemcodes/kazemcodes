@@ -2,7 +2,7 @@
   <samp>Hello world.</samp>
   <br>
   <br>
-  <samp>If you'd like to support my work, feel free to sponsor me here: https://link.trustwallet.com/sendcoin=0&address=bc1qwncc5gfrzt0hwhwt9ad9vyv6eg8gxk4wlg6atm</samp>
+  <samp>If you'd like to support my work, feel free to sponsor me here:</samp>
   <br>
   <br>
   <p align="center">My btc wallet: bc1qwncc5gfrzt0hwhwt9ad9vyv6eg8gxk4wlg6atm</p>
