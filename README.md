@@ -2,11 +2,9 @@
   <samp>Hello world.</samp>
   <br>
   <br>
-  <samp>If you'd like to support my work, feel free to sponsor me here:</samp>
+  <samp>If you'd like to support my work, feel free to sponsor me here: https://reymit.ir/kazemcodes</samp>
   <br>
   <br>
-  <a align="center" href="https://nowpayments.io/donation?api_key=YS02ZZJ-M2S4SF9-HD3AQW0-MRRV89W" target="_blank">
- <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Cryptocurrency & Bitcoin donation button by NOWPayments">
 </a>
 
 </p>
